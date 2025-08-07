@@ -1,10 +1,8 @@
 
 { "name": "AIS PLAY",
  "author": "VIP",
- 
-"url": "https://raw.githubusercontent.com/Chippy1Chaly2/wiseplay/refs/heads/main/ais.w3u",
- 
-"image" "https://cdn.pixabay.com/animation/2022/09/09/08/46/08-46-03-703_512.gif",
+ "url": "https://raw.githubusercontent.com/Chippy1Chaly2/wiseplay/refs/heads/main/ais.w3u",
+ "image" "https://cdn.pixabay.com/animation/2022/09/09/08/46/08-46-03-703_512.gif",
  "stations": [
  
 { "name": "3 HD", 
